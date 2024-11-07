@@ -24,7 +24,7 @@ The `nodepay-bot` can be run using Docker or manually.
 
 you can obtain your user ID from the nodepay website:
 
-- Visit [https://app.nodepay.ai](https://app.nodepay.ai/register?ref=ffWdlWvILxU2eSW)
+- Visit [https://app.nodepay.ai](https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J)
 - Open the browser's developer tools (usually by pressing F12 or right-clicking and selecting "Inspect").
 - Go to the "Console" tab.
 - Paste the following command and press Enter:
@@ -37,7 +37,7 @@ copy(localStorage.getItem('np_token'));
 
 ### Prepare proxies
 
-You can buy proxies from [ProxyCheap](https://app.proxy-cheap.com/r/ksvW8Z) or any other proxy provider.
+You can buy proxies from [ProxyCheap](https://app.proxy-cheap.com/r/JysUiH) or any other proxy provider.
 
 ### Running the Bot with Docker (not ready)
 
